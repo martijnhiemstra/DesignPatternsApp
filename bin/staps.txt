@@ -1,0 +1,17 @@
+Dag 1
+
+	Encapsulation
+	Create calculator singleton with add method 
+	List numbers and Builder add numbers
+	Strategy -> AddOperation/SubOperation etc
+
+Dag 2
+
+	Command -> Call operations in calculator
+	Factory -> Build commands
+	Iterator -> Create calculator iterator
+	Decorator pattern
+	Chain of responsibility -> Spring erbij pakken
+	Proxy
+	Composite
+	Momento
